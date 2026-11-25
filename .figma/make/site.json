@@ -1,0 +1,10 @@
+{
+  "description": "Helps teams bootstrap imported projects and verify deployment and preview setup, ensuring an initial project is ready for release.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
