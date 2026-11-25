@@ -1,0 +1,8 @@
+{
+  "restartOn": [
+    "index.html",
+    "styles.css",
+    "script.js",
+    "assets/**"
+  ]
+}
